@@ -4,6 +4,11 @@
     "bgColor": "#111",
     "textColor": "#eee"
   },
+   {
+    "name": "baddest",
+    "bgColor": "#323437",
+    "textColor": "8edded"
+  },
   {
     "name": "dark_magic_girl",
     "bgColor": "#091f2c",
